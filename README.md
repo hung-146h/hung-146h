@@ -1,9 +1,11 @@
 <h1 align="center">Xin chào 👋, tôi là Phan Văn Thái Hưng</h1>
 <h3 align="center">Một wibu, simp lord đến từ Việt Nam</h3>
 
-- 📫 Cách liên hệ với tôi **hungphantoanlyhoa@gmail.com**
 
-- ⚡ Sự thật thú vị **Tôi học Đại Học Công Nghệ - ĐHQGHN**
+- 🎯 Mục tiêu: **Trở thành "Wibu mạnh nhất làng code Việt"!** 💀🔥  
+- 🔨 Dự án hiện tại: 🕹️ **Phát triển game bằng SDL C++** 
+- ⚡ Sự thật thú vị **Tôi học Đại Học Công Nghệ - ĐHQGHN**  
+- 📫 Cách liên hệ với tôi **hungphantoanlyhoa@gmail.com**
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
