@@ -1,9 +1,8 @@
 <h1 align="center">Xin chào 👋, tôi là Phan Văn Thái Hưng</h1>
-<h3 align="center">Một wibu, simp lord đến từ Việt Nam</h3>
+<h3 align="center">Đến từ Việt Nam</h3>
 
 
-- 🎯 Mục tiêu: **Trở thành "Wibu mạnh nhất làng code Việt"!** 💀🔥  
-- 🔨 Dự án hiện tại: 🕹️ **Phát triển game bằng SDL C++** 
+- 🔨 Dự án hiện tại: 🕹️ **Phát triển game bằng Java** 
 - ⚡ Sự thật thú vị **Tôi học Đại Học Công Nghệ - ĐHQGHN**  
 - 📫 Cách liên hệ với tôi **hungphantoanlyhoa@gmail.com**
 
